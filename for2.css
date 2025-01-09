@@ -1,0 +1,21 @@
+body {
+  background-color: white;
+  text-align: center;
+}
+button {
+  display: flex;
+  margin: 10% 25%;
+}
+.button1 {
+  color: black;
+  text-align: bold;
+  background-color: pink;
+}
+.button2 {
+  color: black;
+  text-align: bold;
+  background-color: lightgreen;
+}
+a {
+  text-decoration: none;
+}

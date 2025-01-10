@@ -16,6 +16,16 @@ button {
   text-align: bold;
   background-color: lightgreen;
 }
+.button3 {
+  color: violet;
+  text-align: bold;
+  background-color: black;
+}
+.button4 {
+  color: white;
+  text-align: bold;
+  background-color: violet;
+}
 a {
   text-decoration: none;
 }
